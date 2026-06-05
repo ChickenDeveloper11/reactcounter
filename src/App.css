@@ -21,6 +21,9 @@
     font-weight: 400;
     font-family: "Geo", sans-serif;
     font-style: normal;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
   }
 
   & button:hover {
