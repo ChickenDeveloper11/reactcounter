@@ -9,7 +9,7 @@ function App() {
 
     const kondisiCounter = () => {
         setCount ((prevCount) => {
-            const newCount = prevCount + 100;
+            const newCount = prevCount + 1;
 
             if (newCount === 100) {
                 setShowText(true);
