@@ -1,0 +1,21 @@
+{
+    "short_name": "My Clicker App",
+    "name": "My Clicker Application",
+    "icons": [
+        {
+            "src": "public/on-button.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "public/on-button.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "start_url": ".",
+    "background_color": "#ffffff",
+    "theme_color": "#000000",
+    "display": "standalone",
+    "orientation": "portrait"
+}
